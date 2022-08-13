@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Trickle-app/static/css/main.13e84cf3.css",
+    "main.js": "/Trickle-app/static/js/main.d50d1ef5.js",
+    "static/media/sanskarsingh_pic.jpg": "/Trickle-app/static/media/sanskarsingh_pic.57fb031581054f9462a7.jpg",
+    "index.html": "/Trickle-app/index.html",
+    "main.13e84cf3.css.map": "/Trickle-app/static/css/main.13e84cf3.css.map",
+    "main.d50d1ef5.js.map": "/Trickle-app/static/js/main.d50d1ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e84cf3.css",
+    "static/js/main.d50d1ef5.js"
+  ]
+}
