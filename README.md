@@ -1,5 +1,4 @@
-
-
+Deployed on netlify - https://trickle-app.netlify.app  
 ## Available Scripts
 
 In the project directory, you can run:
