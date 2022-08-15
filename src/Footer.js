@@ -23,7 +23,7 @@ function Footer() {
               Email
             </span> */}
 
-            <a href="https://portfolio.com">My Portfolio</a>
+            <a href="https://sanskar8176.github.io/portfolio/">My Portfolio</a>
           </div>
         </div>
 
